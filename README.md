@@ -60,15 +60,15 @@
 
 ### 多任务学习
 
-1.[CRICHTON, Gamal, et al. A neural network multi-task learning approach to biomedical named entity recognition. BMC bioinformatics, 2017, 18.1: 368.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1776-8)
+1. [CRICHTON, Gamal, et al. A neural network multi-task learning approach to biomedical named entity recognition. BMC bioinformatics, 2017, 18.1: 368.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1776-8)
 
-2.[Chen, X., Qiu, X., & Huang, X. (2016). A feature-enriched neural model for joint Chinese word segmentation and part-of-speech tagging. arXiv preprint arXiv:1611.05384.](https://arxiv.org/pdf/1611.05384)
+2. [Chen, X., Qiu, X., & Huang, X. (2016). A feature-enriched neural model for joint Chinese word segmentation and part-of-speech tagging. arXiv preprint arXiv:1611.05384.](https://arxiv.org/pdf/1611.05384)
 
-3.[RUDER, Sebastian. An overview of multi-task learning in deep neural networks. arXiv preprint arXiv:1706.05098, 2017.](https://arxiv.org/pdf/1706.05098)
+3. [RUDER, Sebastian. An overview of multi-task learning in deep neural networks. arXiv preprint arXiv:1706.05098, 2017.](https://arxiv.org/pdf/1706.05098)
 
-4.[LONG, Mingsheng, et al. Learning Multiple Tasks with Multilinear Relationship Networks. In: Advances in Neural Information Processing Systems. 2017. p. 1593-1602.](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-multilinear-relationship-networks.pdf)
+4. [LONG, Mingsheng, et al. Learning Multiple Tasks with Multilinear Relationship Networks. In: Advances in Neural Information Processing Systems. 2017. p. 1593-1602.](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-multilinear-relationship-networks.pdf)
 
-5.[AGUILAR, Gustavo, et al. A Multi-task Approach for Named Entity Recognition in Social Media Data. In: Proceedings of the 3rd Workshop on Noisy User-generated Text. 2017. p. 148-153.](http://www.aclweb.org/anthology/W17-4419)
+5. [AGUILAR, Gustavo, et al. A Multi-task Approach for Named Entity Recognition in Social Media Data. In: Proceedings of the 3rd Workshop on Noisy User-generated Text. 2017. p. 148-153.](http://www.aclweb.org/anthology/W17-4419)
 
 
 ### 关系抽取任务
@@ -196,205 +196,80 @@
 
 12. [COLLOBERT, Ronan, et al. Natural language processing (almost) from scratch. Journal of Machine Learning Research, 2011, 12.Aug: 2493-2537.](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)
 
-13. []()
+13. [HORSMANN, Tobias; ZESCH, Torsten. Do LSTMs really work so well for PoS tagging?–A replication study. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 727-736.](http://www.aclweb.org/anthology/D17-1076)
 
-14. []()
+14. [HSIEH, Jun-Ting; LI, Chengshu; LIU, Wendi. Effective Word Representation for Named Entity Recognition.](https://pdfs.semanticscholar.org/8392/68385124f03bfd19c3ce44d7935d7c6f13a0.pdf)
 
-15. []()
+15. [STRUBELL, Emma, et al. Fast and accurate entity recognition with iterated dilated convolutions. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 2670-2680.](http://www.aclweb.org/anthology/D17-1283)
 
-16. []()
+16. [LI, Peng-Hsuan, et al. Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 2664-2669.](http://www.aclweb.org/anthology/D17-1282)
 
-17. []()
+17. [YANNAKOUDAKIS, Helen, et al. Neural Sequence-Labelling Models for Grammatical Error Correction. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 2795-2806.](http://www.aclweb.org/anthology/D17-1297)
 
-18. []()
-
-19. []()
-
-20. []()
-
-21. []()
+18. [TURE, Ferhan; JOJIC, Oliver. No Need to Pay Attention: Simple Recurrent Neural Networks Work!. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 2866-2872.](http://www.aclweb.org/anthology/D17-1307)
 
 
 ### 序列模型引入外部知识（词典）
 
-1. []()
+1. [CHIU, Jason PC; NICHOLS, Eric. Named entity recognition with bidirectional LSTM-CNNs. arXiv preprint arXiv:1511.08308, 2015.](https://arxiv.org/pdf/1511.08308)
 
-2. []()
+2. [**FARUQUI, Manaal, et al. Retrofitting word vectors to semantic lexicons. arXiv preprint arXiv:1411.4166, 2014.**](https://arxiv.org/pdf/1411.4166)
 
-3. []()
+3. [AKHONDI, Saber A., et al. Recognition of chemical entities: combining dictionary-based and grammar-based approaches. Journal of Cheminformatics, 2015, 7.1: S10.](https://jcheminf.springeropen.com/articles/10.1186/1758-2946-7-S1-S10)
 
-4. []()
+4. [ZHANG, Qi; LIU, Xiaoyu; FU, Jinlan. Neural Networks Incorporating Dictionaries for Chinese Word Segmentation. 2018.](http://jkx.fudan.edu.cn/~qzhang/paper/aaai2017-cws.pdf)
 
-5. []()
+5. [TISSIER, Julien; GRAVIER, Christophe; HABRARD, Amaury. Dict2vec: Learning Word Embeddings using Lexical Dictionaries. In: Conference on Empirical Methods in Natural Language Processing (EMNLP 2017). 2017. p. 254-263.](https://hal-ujm.archives-ouvertes.fr/ujm-01613953/file/emnlp2017.pdf)
 
-6. []()
+6. [CHOI, Youngduck; CHIU, Chill Yi-I.; SONTAG, David. Learning low-dimensional representations of medical concepts. AMIA Summits on Translational Science Proceedings, 2016, 2016: 41.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/)
 
-7. []()
+7. [AutoExtend_ACL2014](https://arxiv.org/pdf/1507.01127)
 
-8. []()
+8. [AutoExtend_ACL2017](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00294)
 
-9. []()
+9. [WU, Ledell, et al. StarSpace: Embed All The Things!. arXiv preprint arXiv:1709.03856, 2017.](https://arxiv.org/pdf/1709.03856)
 
-10. []()
+10. [NIU, Yilin, et al. Improved Word Representation Learning with Sememes. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. p. 2049-2058.](http://www.aclweb.org/anthology/P17-1187)
 
-11. []()
+11. [YANG, Bishan; MITCHELL, Tom. Leveraging knowledge bases in lstms for improving machine reading. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. p. 1436-1446.](http://www.aclweb.org/anthology/P17-1132)
 
-12. []()
+12. [XU, Mingbin; JIANG, Hui; WATCHARAWITTAYAKUL, Sedtawut. A Local Detection Approach for Named Entity Recognition and Mention Detection. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. p. 1237-1247.](http://www.aclweb.org/anthology/P17-1114)
 
-13. []()
+13. [LONG, Mingsheng, et al. Learning Multiple Tasks with Multilinear Relationship Networks. In: Advances in Neural Information Processing Systems. 2017. p. 1593-1602.](http://papers.nips.cc/paper/6757-learning-multiple-tasks-with-multilinear-relationship-networks.pdf)
 
-14. []()
+14. [YAMADA, Ikuya, et al. Learning distributed representations of texts and entities from knowledge base. arXiv preprint arXiv:1705.02494, 2017.](https://arxiv.org/pdf/1705.02494)
 
-15. []()
+15. [CHEN, Liang-Wei; LEE, Wei-Chun; HWANG, Hsiang-Wei. When Word Embedding Meets Lexical Networks.](https://pdfs.semanticscholar.org/52f9/c705b4303576108cab5a6b22f73f0e7d29af.pdf)
 
-16. []()
-
-17. []()
-
-18. []()
-
-19. []()
-
-20. []()
-
-21. []()
+16. [AGUILAR, Gustavo, et al. A Multi-task Approach for Named Entity Recognition in Social Media Data. In: Proceedings of the 3rd Workshop on Noisy User-generated Text. 2017. p. 148-153.](http://www.aclweb.org/anthology/W17-4419)
 
 
 ### aaai2018
 
-1. []()
+1. [ZHANG, Qi; LIU, Xiaoyu; FU, Jinlan. Neural Networks Incorporating Dictionaries for Chinese Word Segmentation. 2018.](http://jkx.fudan.edu.cn/~qzhang/paper/aaai2017-cws.pdf)
 
-2. []()
+2. [ZENG, Xiangkai, et al. Chinese LIWC Lexicon Expansion via Hierarchical Classification of Word Embeddings with Sememe Attention. 2018.](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_cliwc.pdf)
 
-3. []()
 
-4. []()
-
-5. []()
-
-6. []()
-
-7. []()
-
-8. []()
-
-9. []()
-
-10. []()
-
-11. []()
-
-12. []()
-
-13. []()
-
-14. []()
-
-15. []()
-
-16. []()
-
-17. []()
-
-18. []()
-
-19. []()
-
-20. []()
-
-21. []()
-
-### DL for NLP 论文
-
-1. []()
-
-2. []()
-
-3. []()
-
-4. []()
-
-5. []()
-
-6. []()
-
-7. []()
-
-8. []()
-
-9. []()
-
-10. []()
-
-11. []()
-
-12. []()
-
-13. []()
-
-14. []()
-
-15. []()
-
-16. []()
-
-17. []()
-
-18. []()
-
-19. []()
-
-20. []()
-
-21. []()
 
 ### emnlp论文
 
-1. []()
+1. [HE, Hua, et al. An Insight Extraction System on BioMedical Literature with Deep Neural Networks. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 2691-2701.](http://www.aclweb.org/anthology/D17-1285)
 
-2. []()
 
-3. []()
-
-4. []()
-
-5. []()
-
-6. []()
-
-7. []()
-
-8. []()
-
-9. []()
-
-10. []()
-
-11. []()
-
-12. []()
-
-13. []()
-
-14. []()
-
-15. []()
-
-16. []()
-
-17. []()
-
-18. []()
-
-19. []()
-
-20. []()
-
-21. []()
 
 ### PPT模板
 ### UMLS论文
 
+1. [李晓瑛, et al. UMLS 超级叙词表统计分析研究. 医学信息学杂志, 2012, 33.6: 40-44.](https://sci-hub.org.cn/hubdownload?s=http://www.cqvip.com/qk/93127a/201206/42496016.html)
+
+2. [沈彤. 一体化医学语言系统的中文化和形式化表示研究 [D]. 2013. PhD Thesis. 哈尔滨工业大学.](https://sci-hub.org.cn/hubdownload?s=http://d.wanfangdata.com.cn/Thesis/D421268)
+
+3. [李丹亚, et al. UMLS 多词表整合机制研究. 数字图书馆论坛, 2012, 4: 28-36.]()
+
+
+### 其他
+
 1. []()
 
 2. []()
@@ -436,5 +311,3 @@
 20. []()
 
 21. []()
-
-### 其他
