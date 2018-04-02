@@ -1,7 +1,8 @@
 # Paper4NLP
 
 ## 论文分类
-[TOC]
+ [TOC]
+---
 
 ### Attention
 ### 词向量表示学习
