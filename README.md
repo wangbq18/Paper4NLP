@@ -6,26 +6,40 @@
 
 ### Attention
 1. [SEO, Minjoon, et al. Bidirectional attention flow for machine comprehension. arXiv preprint arXiv:1611.01603, 2016.](https://arxiv.org/pdf/1611.01603)
----
+
 2. [ZADEH, Amir, et al. Multi-attention recurrent network for human communication comprehension. arXiv preprint arXiv:1802.00923, 2018.](https://arxiv.org/pdf/1802.00923)
----
+
 3.[CHEN, Kehai, et al. Syntax-Directed Attention for Neural Machine Translation. arXiv preprint arXiv:1711.04231, 2017.](https://arxiv.org/pdf/1711.04231)
 
 ### 词向量表示学习
-3.[AutoExtend_ACL2014](https://arxiv.org/pdf/1507.01127)
-3.[AutoExtend_ACL2017](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00294)
+1.[AutoExtend_ACL2014](https://arxiv.org/pdf/1507.01127)
+
+2.[AutoExtend_ACL2017](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00294)
+
 3.[WELLER-DI MARCO, Marion; FRASER, Alexander; IM WALDE, Sabine Schulte. Addressing Problems across Linguistic Levels in SMT: Combining Approaches to Model Morphology, Syntax and Lexical Choice. In: Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 2, Short Papers. 2017. p. 625-630.](http://www.aclweb.org/anthology/E17-2099)
-3.[YAGHOOBZADEH, Yadollah; SCHÜTZE, Hinrich. Multi-level representations for fine-grained typing of knowledge base entities. arXiv preprint arXiv:1701.02025, 2017.](https://arxiv.org/pdf/1701.02025)
-3.[TISSIER, Julien; GRAVIER, Christophe; HABRARD, Amaury. Dict2vec: Learning Word Embeddings using Lexical Dictionaries. In: Conference on Empirical Methods in Natural Language Processing (EMNLP 2017). 2017. p. 254-263.](https://hal-ujm.archives-ouvertes.fr/ujm-01613953/file/emnlp2017.pdf)
-3.[PINTER, Yuval; GUTHRIE, Robert; EISENSTEIN, Jacob. Mimicking word embeddings using subword RNNs. arXiv preprint arXiv:1707.06961, 2017.](https://arxiv.org/pdf/1707.06961)
-3.[CHIU, Billy, et al. How to train good word embeddings for biomedical NLP. In: Proceedings of the 15th Workshop on Biomedical Natural Language Processing. 2016. p. 166-174.](http://www.aclweb.org/anthology/W16-2922)
-3.[XIE, Ruobing, et al. Lexical sememe prediction via word embeddings and matrix factorization. In: Proceedings of the 26th International Joint Conference on Artificial Intelligence. AAAI Press, 2017. p. 4200-4206.](https://www.ijcai.org/proceedings/2017/0587.pdf)
-3.[CHE, Zhengping, et al. Exploiting convolutional neural network for risk prediction with medical feature embedding. arXiv preprint arXiv:1701.07474, 2017.](https://arxiv.org/pdf/1701.07474)
-3.[YU, Liang-Chih, et al. Refining word embeddings for sentiment analysis. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 534-539.](http://www.aclweb.org/anthology/D17-1056)
-3.[FARUQUI, Manaal, et al. Retrofitting word vectors to semantic lexicons. arXiv preprint arXiv:1411.4166, 2014.](https://arxiv.org/pdf/1411.4166)
-3.[ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. p. 77-89.](http://www.aclweb.org/anthology/P17-1008)
-3.[WU, Ledell, et al. StarSpace: Embed All The Things!. arXiv preprint arXiv:1709.03856, 2017.](https://arxiv.org/pdf/1709.03856)
-3.[CHEN, Liang-Wei; LEE, Wei-Chun; HWANG, Hsiang-Wei. When Word Embedding Meets Lexical Networks.](https://pdfs.semanticscholar.org/52f9/c705b4303576108cab5a6b22f73f0e7d29af.pdf)
+
+4.[YAGHOOBZADEH, Yadollah; SCHÜTZE, Hinrich. Multi-level representations for fine-grained typing of knowledge base entities. arXiv preprint arXiv:1701.02025, 2017.](https://arxiv.org/pdf/1701.02025)
+
+5.[TISSIER, Julien; GRAVIER, Christophe; HABRARD, Amaury. Dict2vec: Learning Word Embeddings using Lexical Dictionaries. In: Conference on Empirical Methods in Natural Language Processing (EMNLP 2017). 2017. p. 254-263.](https://hal-ujm.archives-ouvertes.fr/ujm-01613953/file/emnlp2017.pdf)
+
+6.[PINTER, Yuval; GUTHRIE, Robert; EISENSTEIN, Jacob. Mimicking word embeddings using subword RNNs. arXiv preprint arXiv:1707.06961, 2017.](https://arxiv.org/pdf/1707.06961)
+
+7.[CHIU, Billy, et al. How to train good word embeddings for biomedical NLP. In: Proceedings of the 15th Workshop on Biomedical Natural Language Processing. 2016. p. 166-174.](http://www.aclweb.org/anthology/W16-2922)
+
+8.[XIE, Ruobing, et al. Lexical sememe prediction via word embeddings and matrix factorization. In: Proceedings of the 26th International Joint Conference on Artificial Intelligence. AAAI Press, 2017. p. 4200-4206.](https://www.ijcai.org/proceedings/2017/0587.pdf)
+
+9.[CHE, Zhengping, et al. Exploiting convolutional neural network for risk prediction with medical feature embedding. arXiv preprint arXiv:1701.07474, 2017.](https://arxiv.org/pdf/1701.07474)
+
+10.[YU, Liang-Chih, et al. Refining word embeddings for sentiment analysis. In: Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. 2017. p. 534-539.](http://www.aclweb.org/anthology/D17-1056)
+
+11.[FARUQUI, Manaal, et al. Retrofitting word vectors to semantic lexicons. arXiv preprint arXiv:1411.4166, 2014.](https://arxiv.org/pdf/1411.4166)
+
+12.[ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2017. p. 77-89.](http://www.aclweb.org/anthology/P17-1008)
+
+13.[WU, Ledell, et al. StarSpace: Embed All The Things!. arXiv preprint arXiv:1709.03856, 2017.](https://arxiv.org/pdf/1709.03856)
+
+14.[CHEN, Liang-Wei; LEE, Wei-Chun; HWANG, Hsiang-Wei. When Word Embedding Meets Lexical Networks.](https://pdfs.semanticscholar.org/52f9/c705b4303576108cab5a6b22f73f0e7d29af.pdf)
+
 
 ### 对抗GAN
 3.[王坤峰, et al. 生成式对抗网络 GAN 的研究进展与展望. 自动化学报, 2017, 43.3: 321-332.](http://html.rhhz.net/ZDHXBZWB/html/20170301.htm)
