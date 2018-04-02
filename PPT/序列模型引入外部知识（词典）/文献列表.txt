@@ -1,0 +1,30 @@
+干货 | 在序列模型中引入额外知识信息（一）
+https://mp.weixin.qq.com/s/01XicrjA9UV7hyBncgsb4A
+
+[1] "Leveraging Knowledge Bases in LSTMs for Improving Machine Reading". ACL 2017.
+
+[2] "A neural knowledge language model". arXiv preprint 2016.
+
+[3] "World Knowledge for Reading Comprehension: Rare Entity Prediction with Hierarchical LSTMs Using External Descriptions". EMNLP 2017.
+
+[4] "Learning to understand phrases by embedding the dictionary". TACL 2016.
+
+[5] "A Neural Network Approach for Knowledge-Driven Response Generation". COLING 2016. 
+
+[6] "A Knowledge-Grounded Neural Conversation Model". arXiv preprint 2017.
+
+[7] "A Network-based End-to-End Trainable Task-oriented Dialogue System". EACL 2017. 
+
+[8] "Flexible End-to-End Dialogue System for Knowledge Grounded Conversation". arXiv preprint 2017.
+
+[9] "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings". ACL 2017.
+
+[10] "No Need to Pay Attention: Simple Recurrent Neural Networks Work! (for Answering “Simple” Questions)". EMNLP 2017.
+
+[11] "Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks". arXiv preprint 2017.
+
+[12] "Graph-Structured Representations for Visual Question Answering". CVPR 2017. 
+
+[13] "OBJ2TEXT: Generating Visually Descriptive Language from Object Layouts". EMNLP 2017. 
+
+[14] "Neural Motifs: Scene Graph Parsing with Global Context". CVPR 2018.

@@ -1,0 +1,37 @@
+题目：Recognition of chemical entities: combining dictionary-based and grammar-based approaches
+作者：Saber A Akhondi1*, Kristina M Hettne2, Eelke van der Horst2, Erik M van Mulligen1, Jan A Kors
+期刊：Journal of Cheminformatics 
+年份：2015
+
+一句话概括：
+这篇文章探究了不同的生物医学字典和一些NLP语法特征对于Chemical实体识别的效果
+
+学习之处：
+1. 字典资源（Lexical resources）
+    * ChEBI [24]
+    * ChEMBL [25]
+    * ChemSpider [26]
+    * DrugBank [30]
+    * HMDB [32]
+    * NPC [34]
+    * TTD [35]
+    * PubChem [37]
+    * Jochem [9]
+    * UMLS [39]
+1. 停用词词典（Stop words）
+    * English basic words (100 words)
+    * PubMed stop-word list (133 words) [43]
+    * the Jochem stop-word list (258 words) [9]
+    * stop-words derived from the CHEMDNER annotation guidelines (116 words) [21]
+2. 分词问题（Tokenization）
+生物医学领域的句子切分是个大问题，文章使用 the tokenizer previously developed by Hettne et al. [9]. 这个工具来切分句子。
+Tokenization of text that contains chemical terms can be complicated as compound names may include punctuation, such as commas or brackets. We used Peregrine with the tokenizer previously developed by Hettne et al. [9]. 
+3. P/R/F测试工具
+We used the BioCreative evaluation script [49] to calculate precision, recall, and F-score (using exact matching of entity boundaries without considering entity type). 
+4. 字典拓展
+将训练预料中已标注出的chemical实体添加到字典中。
+In the final setup we tried to improve our system by extending our dictionary with all gold-standard annotations from the training material that our system initially missed. 
+5. 实验结论
+    * The use of the stop-word lists greatly improved the precision and F-score of the majority of resources. 
+    * 大小写特征、NLP Chunking...对系统提升不明显
+6. 
