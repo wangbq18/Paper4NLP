@@ -6,7 +6,9 @@
 
 ### Attention
 1. [SEO, Minjoon, et al. Bidirectional attention flow for machine comprehension. arXiv preprint arXiv:1611.01603, 2016.](https://arxiv.org/pdf/1611.01603)
+---
 2. [ZADEH, Amir, et al. Multi-attention recurrent network for human communication comprehension. arXiv preprint arXiv:1802.00923, 2018.](https://arxiv.org/pdf/1802.00923)
+---
 3.[CHEN, Kehai, et al. Syntax-Directed Attention for Neural Machine Translation. arXiv preprint arXiv:1711.04231, 2017.](https://arxiv.org/pdf/1711.04231)
 
 ### 词向量表示学习
